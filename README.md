@@ -43,9 +43,13 @@ The interactive dashboard visualizes customer behavior, monthly revenue trends, 
 🔢 RFM Segmentation Logic (Simplified)
 
 Champions: R <= 2 AND F <= 2 AND M <= 2
+
 Loyal: R <= 3 AND F <= 2 AND NOT Champions
+
 Big Spenders: M <= 2 AND R <= 4 AND F >= 2
+
 At Risk: R >= 4 AND (F <= 3 OR M <= 3)
+
 Lost: R >= 4 AND F >= 4 AND M >= 4
 
 📂 Repository Structure
