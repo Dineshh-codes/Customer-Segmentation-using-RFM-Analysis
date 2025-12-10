@@ -55,8 +55,11 @@ Lost: R >= 4 AND F >= 4 AND M >= 4
 📂 Repository Structure
 
 dataset/ – Customer sales dataset
+
 dashboard/ – RFM_Analysis.pbix
+
 screenshots/ – Dashboard preview image
+
 README.md – Documentation
 
 📘 How to Use
