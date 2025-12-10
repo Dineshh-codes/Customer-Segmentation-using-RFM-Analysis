@@ -56,7 +56,7 @@ Lost: R >= 4 AND F >= 4 AND M >= 4
 
 dataset/ – Customer sales dataset
 dashboard/ – RFM_Analysis.pbix
-screenshots/ – Dashboard preview images
+screenshots/ – Dashboard preview image
 README.md – Documentation
 
 📘 How to Use
