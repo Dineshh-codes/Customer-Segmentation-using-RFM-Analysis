@@ -1,10 +1,5 @@
 📊 Customer Segmentation – RFM Analysis
 
-Power BI | DAX | Power Query | Data Modeling
-Dec 2025
-
-This project implements a complete RFM (Recency–Frequency–Monetary) customer segmentation model in Power BI. The dashboard helps businesses understand customer value, behavior patterns, and retention risk. Both the dataset and Power BI (PBIX) file are included in this repository for learning and exploration.
-
 🚀 Project Overview
 
 This project calculates Recency, Frequency, and Monetary scores using custom DAX measures and classifies customers into segments such as:
@@ -16,11 +11,14 @@ This project calculates Recency, Frequency, and Monetary scores using custom DAX
 • Other categories
 
 The interactive dashboard visualizes customer behavior, monthly revenue trends, segment distribution, and category-level patterns to support smarter marketing and retention decisions.
+Live Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiODMwOWJiOWUtOWFjMC00N2Y4LWJmNjMtMjYyOGFlNDFkNjA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 🧠 Business Impact
 
 • Implemented an end-to-end RFM segmentation model in Power BI using DAX-driven scoring to classify customers into key behavioral segments.
+
 • Crafted an interactive segmentation dashboard highlighting monthly sales trends, segment distribution, and purchasing insights, improving marketing and retention targeting accuracy by 25–30%.
+
 • Identified high-value clusters and early churn-risk customers, enabling targeted retention campaigns that increased effectiveness by 20%.
 
 📈 Dashboard Features
